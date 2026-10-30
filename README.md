@@ -1,7 +1,8 @@
-[README.md](https://github.com/user-attachments/files/34204568/README.md)
+[README1.md](https://github.com/user-attachments/files/34204576/README1.md)
 # Checkpoint 3 — Clustering e segmentação de clientes com K-Means
 
-**Disciplina:** Modelagem Linear para Aprendizado de Máquina
+**Disciplina:** Modelagem Linear para Aprendizado de Máquina  
+**Turma:** 1CCPK
 
 ## Integrantes
 
