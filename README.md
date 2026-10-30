@@ -27,20 +27,6 @@ Base **simulada** com **120 clientes fictícios**, gerada com NumPy (semente 303
 
 A base não tem valores ausentes nem identificadores repetidos.
 
-## Como executar
-
-1. Tenha o Python 3.10 ou superior instalado.
-2. Instale as dependências:
-   ```bash
-   pip install pandas numpy matplotlib scikit-learn jupyter
-   ```
-3. Abra o notebook:
-   ```bash
-   jupyter notebook Checkpoint_3_MLAM_Clustering_Clientes.ipynb
-   ```
-   Ele também pode ser aberto no VS Code ou no Google Colab (Arquivo > Fazer upload de notebook).
-4. Execute todas as células na ordem (*Kernel > Restart & Run All*). Os modelos usam `random_state=42` e `n_init=10`, então os resultados são reproduzíveis.
-
 ## Metodologia
 
 1. **Exploração:** tamanho, tipos, ausentes, duplicidades, estatísticas descritivas, histogramas e correlações.
